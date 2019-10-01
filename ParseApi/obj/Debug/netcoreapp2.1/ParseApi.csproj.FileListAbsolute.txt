@@ -1,0 +1,14 @@
+/Users/feliperodrigues/Documents/Repository/ParseApi/bin/Debug/netcoreapp2.1/ParseApi.deps.json
+/Users/feliperodrigues/Documents/Repository/ParseApi/bin/Debug/netcoreapp2.1/ParseApi.runtimeconfig.json
+/Users/feliperodrigues/Documents/Repository/ParseApi/bin/Debug/netcoreapp2.1/ParseApi.runtimeconfig.dev.json
+/Users/feliperodrigues/Documents/Repository/ParseApi/bin/Debug/netcoreapp2.1/ParseApi.dll
+/Users/feliperodrigues/Documents/Repository/ParseApi/bin/Debug/netcoreapp2.1/ParseApi.pdb
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.csprojAssemblyReference.cache
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.csproj.CoreCompileInputs.cache
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.RazorAssemblyInfo.cache
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.RazorAssemblyInfo.cs
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.AssemblyInfoInputs.cache
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.AssemblyInfo.cs
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.RazorTargetAssemblyInfo.cache
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.dll
+/Users/feliperodrigues/Documents/Repository/ParseApi/obj/Debug/netcoreapp2.1/ParseApi.pdb

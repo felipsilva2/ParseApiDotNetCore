@@ -1,0 +1,16 @@
+{
+  "FilePath": "/Users/feliperodrigues/Documents/Repository/ParseApi/ParseApi.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "ParseApi",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
